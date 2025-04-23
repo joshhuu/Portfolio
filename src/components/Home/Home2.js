@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />
               <i>
-                <b className="purple">Hands on experience in machine learning, data analysis and data visualization . </b>
+                <b className="purple">Hands on experience in machine learning, Deep Learning and Data Analysis. </b>
               </i>
               <br />
               <br />
