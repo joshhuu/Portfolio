@@ -59,7 +59,6 @@ function Projects() {
               title="Shopify- Product Scraping API (Personal Project)"
               description="This FastAPI project extracts product information from e-commerce websites by scraping JSON-LD and meta tags. Through a POST endpoint, it retrieves key details such as product name, price, URL, image, and description, enabling efficient data extraction for various applications."
               ghLink="https://github.com/joshhuu/Product-DataScraping-API"
-              demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
