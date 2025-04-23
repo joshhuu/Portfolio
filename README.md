@@ -3,7 +3,7 @@
   <a href="https://yourname.vercel.app/" target="_blank">yourname.vercel.app</a>
 </h2>
 
-## TL;DR
+
 ## 🔧 Built With
 
 My personal portfolio that showcases my skills, experience, resume, and a few of my favorite projects.
