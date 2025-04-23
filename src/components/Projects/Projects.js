@@ -46,7 +46,7 @@ function Projects() {
             <ProjectCard
               imgPath={Summarizer}
               isBlog={false}
-              title=" Website Summarizer AI Tool"
+              title=" Website Summarizer AI Tool (Personal Project)"
               description="Created an AI-powered Website Summarizer leveraging LangChain, Google Gemini API, and BeautifulSoup to extract and condense key content from URLs or raw HTML. Built with Flask and React, the application delivers summaries in various formats—including bullet points, emoji-style, and detailed markdown—through a dynamic and responsive user interface."
               ghLink="https://github.com/joshhuu/AI-Scraper-Summarizer"            
             />
