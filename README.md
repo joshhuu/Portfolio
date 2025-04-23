@@ -1,6 +1,5 @@
 <h2 align="center">
   Josh's Portfolio Website<br/>
-  <a href="https://yourname.vercel.app/" target="_blank">yourname.vercel.app</a>
 </h2>
 
 
