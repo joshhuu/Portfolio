@@ -3,26 +3,7 @@
   <a href="https://yourname.vercel.app/" target="_blank">yourname.vercel.app</a>
 </h2>
 
-<br/>
-
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/joshua-username/portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/joshua-username/portfolio/issues">Request Feature</a>
-</h3>
-
 ## TL;DR
-
-Fork this repo and customize it for your own use. If you like my work, drop a ⭐ and give proper credit by linking back to [Joshua's Portfolio Repo](https://github.com/joshua-username/portfolio). Thanks a lot!
-
 ## 🔧 Built With
 
 My personal portfolio that showcases my skills, experience, resume, and a few of my favorite projects.
