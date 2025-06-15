@@ -13,8 +13,7 @@ function AboutCard() {
             <br />
             I am currently a University student.
             <br />
-            I am Pursuing B.Tech in Artificial Intelligence and Data Science in L
-            Mesra.
+            I am Pursuing B.Tech in Artificial Intelligence and Data Science in Karpagam Academy of Higher Education.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
